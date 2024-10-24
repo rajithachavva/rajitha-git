@@ -1,1 +1,2 @@
 adding files to the staging area -git add .
+commiting the staged changes as a new commit snapstash
