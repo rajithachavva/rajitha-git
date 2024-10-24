@@ -1,5 +1,6 @@
 version control system
 git add . 
 git commit -m 'java'
+git remote add origin git url
 git push -u origin main
 git pull
